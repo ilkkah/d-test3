@@ -1,0 +1,26 @@
+{
+  "name": "d-test3",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "derby": "^0.6",
+    "derby-starter": "^0.2.1",
+    "derby-stylus": "~0.1.0",
+    "express": "~3.4.8",
+    "d-connection-alert": "~0.1.0",
+    "d-before-unload": "~0.1.0",
+    "d-bootstrap": "~0.1.0",
+    "d-barchart": "~0.1.0",
+    "d-barchart-vanilla": "~0.1.0",
+    "d-d3-barchart": "~0.1.0",
+    "d-codemirror": "~0.1.0",
+    "d-showdown": "~0.1.0"
+  },
+  "optionalDependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "0.10.x"
+  }
+}
